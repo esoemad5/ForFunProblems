@@ -1,0 +1,7 @@
+C:\Users\eriyg\Desktop\devCodeCamp\ForFunProblems\ForFunProblems\bin\Debug\ForFunProblems.exe.config
+C:\Users\eriyg\Desktop\devCodeCamp\ForFunProblems\ForFunProblems\bin\Debug\ForFunProblems.exe
+C:\Users\eriyg\Desktop\devCodeCamp\ForFunProblems\ForFunProblems\bin\Debug\ForFunProblems.pdb
+C:\Users\eriyg\Desktop\devCodeCamp\ForFunProblems\ForFunProblems\obj\Debug\ForFunProblems.csprojAssemblyReference.cache
+C:\Users\eriyg\Desktop\devCodeCamp\ForFunProblems\ForFunProblems\obj\Debug\ForFunProblems.csproj.CoreCompileInputs.cache
+C:\Users\eriyg\Desktop\devCodeCamp\ForFunProblems\ForFunProblems\obj\Debug\ForFunProblems.exe
+C:\Users\eriyg\Desktop\devCodeCamp\ForFunProblems\ForFunProblems\obj\Debug\ForFunProblems.pdb
